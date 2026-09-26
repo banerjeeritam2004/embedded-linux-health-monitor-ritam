@@ -225,7 +225,7 @@ embedded-linux-health-monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/mastersajalgupta/embedded-linux-health-monitor.git
+git clone https://github.com/banerjeeritam2004/embedded-linux-health-monitor-ritam.git
 ```
 
 Enter the project:
