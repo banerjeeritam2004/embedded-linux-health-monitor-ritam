@@ -456,10 +456,4 @@ Implemented:
 
 The project is being prepared as a complete GitHub-ready Linux systems project.
 
-## Credits
 
-This project is based on and adapted from the original
-[Embedded Linux Health Monitor](https://github.com/mastersajalgupta/embedded-linux-health-monitor)
-by mastersajalgupta.
-
-The repository has been independently configured and maintained for this project.
